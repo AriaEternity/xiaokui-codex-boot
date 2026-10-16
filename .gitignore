@@ -1,0 +1,12 @@
+build/
+dist/
+qa/
+logs/
+backup/
+references/
+__pycache__/
+*.pyc
+*.pdb
+*.exe
+*.zip
+.venv/

@@ -1,0 +1,9 @@
+* text=auto
+*.cs text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.png binary
+*.ico binary
+*.wav binary
+*.gif binary
+*.mp4 binary
